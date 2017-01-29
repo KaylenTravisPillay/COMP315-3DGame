@@ -23,7 +23,7 @@ int main()
     std::cout << "- Mpilo " << std::endl;
     std::cout << "- Theo " << std::endl;
     std::cout << "- Tuh " << std::endl;
-    std::cout << "- Kaylen " << std::endl;
+    std::cout << "- Kaylen : Installed" << std::endl;
     std::cout << std::endl;
 
     return 0;
