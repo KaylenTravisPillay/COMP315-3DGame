@@ -1,2 +1,6 @@
 ~$dingStandards.docx
 *.tmp
+test/obj/Debug/proj1.o
+test/test.cbp
+test/test.depend
+test/test.layout
