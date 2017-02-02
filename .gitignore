@@ -5,3 +5,4 @@ test/test.cbp
 test/test.depend
 test/test.layout
 *.exe
+*.o
