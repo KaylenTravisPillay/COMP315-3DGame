@@ -19,7 +19,7 @@ int main()
     std::cout << std::endl;
     std::cout << "Team_Alpha BC Members:" << std::endl;
     std::cout << "COMP315 Group project \n" << std::endl;
-    std::cout << "- Kimyran : Yet to confrim!" << std::endl;
+    std::cout << "- Kimyran : Installation Confirmed" << std::endl;
     std::cout << "- Mpilo : Yet to confrim!" << std::endl;
     std::cout << "- Theo : Yet to confrim!" << std::endl;
     std::cout << "- Tuh : Yet to confrim!" << std::endl;
