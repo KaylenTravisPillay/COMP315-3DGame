@@ -6,3 +6,6 @@ test/test.depend
 test/test.layout
 *.exe
 *.o
+*.cbp
+*.depend
+*.layout
