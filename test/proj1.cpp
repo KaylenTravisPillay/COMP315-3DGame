@@ -26,5 +26,14 @@ int main()
     std::cout << "- Kaylen : Installation Confirmed" << std::endl;
     std::cout << std::endl;
 
+    /*
+        As of the second meeting, 6th February 2017, only two group members have
+        confirmed their installation of GitHub, SourceTree, and the mingGw C++
+        toolset.Namely:
+
+            1. Kaylen Travis Pillay
+            2. Kimyran Chetty
+    */
+
     return 0;
 }
