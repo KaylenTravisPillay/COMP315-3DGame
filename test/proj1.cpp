@@ -21,7 +21,7 @@ int main()
     std::cout << "COMP315 Group project \n" << std::endl;
     std::cout << "- Kimyran : Installation Confirmed" << std::endl;
     std::cout << "- Mpilo :Installation Confirmed" << std::endl;
-    std::cout << "- Theo : NO CONFIRMATION!" << std::endl;
+    std::cout << "- Theo : Installation Confirmed" << std::endl;
     std::cout << "- Tuh : NO CONFIRMATION!" << std::endl;
     std::cout << "- Kaylen : Installation Confirmed" << std::endl;
     std::cout << std::endl;
