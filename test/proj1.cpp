@@ -20,7 +20,7 @@ int main()
     std::cout << "Team_Alpha BC Members:" << std::endl;
     std::cout << "COMP315 Group project \n" << std::endl;
     std::cout << "- Kimyran : Installation Confirmed" << std::endl;
-    std::cout << "- Mpilo :Installation Confirmed" << std::endl;
+    std::cout << "- Mpilo :Installation Confirmed" << std::endl;// testing Mpilo's line adding skills
     std::cout << "- Theo : NO CONFIRMATION!" << std::endl;
     std::cout << "- Tuh : NO CONFIRMATION!" << std::endl;
     std::cout << "- Kaylen : Installation Confirmed" << std::endl;
