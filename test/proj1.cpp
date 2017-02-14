@@ -1,3 +1,4 @@
+
 /************************************************************************
 ** File:    proj1.cpp
 ** Project: Testing IDE setup, Sem1 2017
@@ -25,7 +26,7 @@ int main()
     std::cout << "- Tuh : NO CONFIRMATION!" << std::endl;
     std::cout << "- Kaylen : Installation Confirmed" << std::endl;
     std::cout << std::endl;
-
+    //chilling in the lan.
     /*
         As of the second meeting, 6th February 2017, only two group members have
         confirmed their installation of GitHub, SourceTree, and the mingGw C++
